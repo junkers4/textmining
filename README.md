@@ -30,6 +30,7 @@ Tento projekt slúži na zber a spracovanie recenzií z webovej stránky pomocou
 1. Otvor súbor `mining.ipynb` v Jupyter Notebooku.  
 2. Uisti sa, že máš všetky potrebné knižnice (napr. `pandas`, atď.).  
 3. Spusti jednotlivé bunky podľa poradia a pracuj s dátami získanými zo scrappingu.
+4. (html-geo otvaranie bud VS code alebo browser)
 
 ---
 
