@@ -63,7 +63,7 @@ options.add_argument('--disable-dev-shm-usage')
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
 # URL stránky s recenziami
-url = "https://www.google.com/maps/place/Restaurace+na+Chat%C4%9B/@49.2082973,16.6151688,17z/data=!4m17!1m8!3m7!1s0x47129466e3f72f33:0x43074431acc4e00f!2sRestaurace+na+Chat%C4%9B!8m2!3d49.2085848!4d16.615019!10e5!16s%2Fg%2F1tdqg616!3m7!1s0x47129466e3f72f33:0x43074431acc4e00f!8m2!3d49.2085848!4d16.615019!9m1!1b1!16s%2Fg%2F1tdqg616?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+url = "https://www.google.com/maps/contrib/110841734452676392342/reviews/@50.613718,15.7289722,9z/data=!4m3!8m2!3m1!1e1?hl=cs&entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D"
 driver.get(url)
 
 # Handle the consent popup by clicking "Odmítnout vše"
