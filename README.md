@@ -38,7 +38,7 @@ Tento projekt slúži na zber a spracovanie recenzií z webovej stránky pomocou
 
 Keďže Overleaf je pre 2 a my sme 3, založil som Overleaf sem do GitHubu.  
 
-Máme dve možnosti(ako kompilovat kod - pretoze pridavanie budete davad normalne do githubu):
+Kód budeme pridávať priamo do GitHubu, ale máme dve možnosti, ako ho kompilovať:
 
 1. **Budete všetko pridávať priamo do Overleafu** a kompilovať to tam.  
 2. **Používať Overleaf napr. vo VS Code** – ja používam túto možnosť.
